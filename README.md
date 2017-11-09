@@ -11,3 +11,4 @@ GitHub Foundations course exercises
 1. Raj Chilamula
 1. Noah Mercer
 1. Eric C Nesheim
+1. Juan R Andrew 
