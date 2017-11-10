@@ -16,3 +16,9 @@ GitHub Foundations course exercises
 1. Dan Rafferty
 1. Pete Guritza
 1. Tina Savopoulos
+1. Thirumalai Kumar
+1. Sam Smith
+1. Bob Kean
+1. Richard Gibson
+1. Jonathan D Rice
+1. Harrison Shindler
