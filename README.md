@@ -28,3 +28,4 @@ GitHub Foundations course exercises
 1. Art Aquiro
 1. Rich Jeantheau
 1. Joseph Gay
+1. Julio Cavero
