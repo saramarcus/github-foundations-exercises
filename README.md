@@ -32,3 +32,4 @@ GitHub Foundations course exercises
 1. Darin Burbrink
 1. Suresh Penumala
 1. Steve Worrel
+1. Dawn Winston
