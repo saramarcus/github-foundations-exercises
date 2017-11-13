@@ -24,3 +24,7 @@ GitHub Foundations course exercises
 1. Harrison Shindler
 1. John Coleman
 1. Rick Craven
+1. Shweta Sanghi
+1. Art Aquiro
+1. Rich Jeantheau
+1. Joseph Gay
